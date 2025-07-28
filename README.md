@@ -1,3 +1,10 @@
 use this code to download firebase not necesssary but saftety
 
-npm install -g firebase-tools
+mkdir mystore
+cd mystore
+npm init -y
+
+npm install firebase
+
+
+navigate to ur folder then start working on copy paste 
